@@ -30,5 +30,4 @@
 
 ## Connect
 
-- LinkedIn: https://linkedin.com/in/yourname
-- Email: your@email.com
+- Email: donklieb@outlook.com
