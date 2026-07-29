@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm HiTech Dev
 
-<!--
-**hiSoft1129/hiSoft1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 💻 AI Engineer & Full-Stack Developer
+- 🤖 Learning Large Language Models (LLMs)
+- 🔍 Interested in Retrieval-Augmented Generation (RAG)
+- 🌱 Currently building AI SaaS applications
+- 🚀 Open to remote opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Python
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- FastAPI
+- Node.js
+- PostgreSQL
+- Docker
+- Git
+
+## Featured Projects
+
+- 🤖 AI Resume Analyzer
+- 📚 RAG Chatbot
+- 💬 AI Customer Support Assistant
+- 🌐 Portfolio Website
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/yourname
+- Email: your@email.com
