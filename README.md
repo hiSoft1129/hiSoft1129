@@ -106,7 +106,7 @@ Built with:
 
 ## 📫 Connect
 
-Email: donklieb@outlook.com
+Email: mayliedeidra9125@hotmail.com
 
 Open to:
 - Remote AI Engineer opportunities
