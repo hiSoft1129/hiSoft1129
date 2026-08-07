@@ -1,103 +1,14 @@
-# Hi 👋 I'm HiTech Dev
+## Software Engineer | AI Engineer | Full-Stack Developer
 
-## 🤖 Generative AI Engineer | Full-Stack Developer
+I am a Software Engineer with experience building full-stack applications, backend services, and AI-powered solutions. I have worked on enterprise software projects at NYC Office of Technology and Innovation (OTI) and Novartis, focusing on scalable systems, data-driven applications, and modern software development practices.
 
-I build intelligent applications powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and modern AI architectures.
+My technical interests include AI engineering, large language models, RAG systems, cloud-native applications, and building reliable software products.
 
-My focus is turning AI concepts into practical products using Python, FastAPI, LangChain, and full-stack technologies.
+Skills:
+- Languages: Python, TypeScript, JavaScript, Java, SQL
+- Frontend: React, Next.js
+- Backend: Node.js, FastAPI, REST APIs, GraphQL
+- AI: LLMs, RAG, LangChain, AI Agents, Vector Search
+- Cloud & Tools: Azure, AWS, Docker, CI/CD, Git
 
----
-
-## 🚀 What I Build
-
-- 🧠 LLM-powered applications
-- 📚 Retrieval-Augmented Generation (RAG) systems
-- 🤖 AI assistants and conversational agents
-- 🔎 Knowledge-based AI systems
-- 🌐 Full-stack AI SaaS applications
-
----
-
-## 🛠 Tech Stack
-
-### AI / Machine Learning
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- GraphRAG
-- NLP
-- Vector Databases
-- Prompt Engineering
-
-### Backend
-
-- Python
-- FastAPI
-- Node.js
-- PostgreSQL
-- REST APIs
-
-### Frontend
-
-- JavaScript
-- TypeScript
-- React
-- Next.js
-
-### Development
-
-- Docker
-- Git
-- Linux
-- Rust
-- Tauri
-
----
-
-# ⭐ Featured Projects
-
-## 🤖 MoodMateAI
-
-AI-powered conversational wellness assistant built with LLMs, NLP, and FastAPI.
-
-Features:
-- Context-aware conversations
-- AI-generated responses
-- Modern GenAI architecture
-
----
-
-## 📚 RAG-Chatbot
-
-AI-powered PDF chatbot using Retrieval-Augmented Generation.
-
-Features:
-- Document processing
-- Embeddings
-- Vector search
-- Context-aware answers
-
----
-
-## 🧠 genAI-python
-
-Generative AI engineering experiments exploring:
-
-- LLM applications
-- LangChain workflows
-- RAG pipelines
-- Neo4j GraphRAG
-
----
-
-## 🌐 Netlancer
-
-Cross-platform freelance workflow application.
-
-Built with:
-
-- TypeScript
-- Tauri
-- Rust
-- Modern web technologies
+I enjoy solving challenging engineering problems, learning new technologies, and building software that creates practical impact.
